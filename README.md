@@ -41,3 +41,35 @@ I proposed and created the security role to provide professional-grade protectio
 11. Business Continuity & Incident Response
 12. Monthly Security Reports
 13. Prepare for Growth and Expansion
+
+## UPDATE #1 4/10/2025
+
+**Toolkit Creation**
+
+**/INSTALLERS/**
+- 7-Zip
+- Bitwarden
+- Firefox
+- Malwarebytes
+- Nmap
+- Notepad++
+- SyncBackFree
+- VeraCrypt
+- VirtualBox (with Ubuntu ISO)
+- Wireshark
+
+**/DOCUMENTATION/**
+- Logs and documentation organized by project
+
+**/TRAINING/**
+- Cheat Sheets
+- Phishing awareness
+- Security best practice
+- Bitwarden guide
+
+**/CONFIG/**
+- Basic scripts for firewall, structure, and hardening stubs
+
+**/BACKUP/**
+- Organized for air-gapped backups and cloud backup staging
+
