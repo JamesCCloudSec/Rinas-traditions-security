@@ -26,6 +26,8 @@ I proposed and created the security role to provide professional-grade protectio
 - Reconnaissance
 - Topology
 - Documentation
+- Toolkit
+- OS Hardening 4/13/2025
 
 ## Roadmap (Next Few Months - Will Expand on Completion)
 1. Threat Modeling
