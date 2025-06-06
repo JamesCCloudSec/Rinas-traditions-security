@@ -21,12 +21,14 @@ I proposed and created the security role to provide professional-grade protectio
 - Website: Domain purchased, will help develop website.
 - Authentication: PIN, FaceID, inconsistent 2FA/MFA
 - Backup Strategy: None
+### Environment Update - 6/5/25
+- Rina's Traditions is currently undergoing contractual agreement to join nearby food co-ops, and I have been requested to overview security operations.
 
 ## WIP:
 - Reconnaissance
 - Topology
-- Documentation
-- Toolkit
+- Documentation **never ends**
+- Toolkit **last updated June 2025**
 - OS Hardening 4/13/2025
 
 ## Roadmap (Next Few Months - Will Expand on Completion)
