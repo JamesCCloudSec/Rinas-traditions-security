@@ -1,4 +1,4 @@
-# Security Operations Continue 6/7/25
+# Security Operations Continue - 6/7/25 - PHASE TWO
 ## To Do:
 - **Group 1: Desktop Hardening**
 - **Group 2: Backup Foundations**
