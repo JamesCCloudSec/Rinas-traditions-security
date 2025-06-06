@@ -8,7 +8,7 @@ This update outlines the full scope of the security implementation scheduled for
 
 ---
 
-### PHASE 1 — Desktop (Personal Use)
+### Group 1 — Desktop (Personal Use)
 
 - Factory reset and clean system base
 - Admin and standard user accounts created for privilege separation
@@ -24,7 +24,7 @@ This update outlines the full scope of the security implementation scheduled for
 
 ---
 
-### PHASE 2 — Laptop (Work-Only System)
+### Group 2 — Laptop (Work-Only System)
 
 - Factory reset
 - Admin and standard user accounts created
@@ -48,7 +48,7 @@ This update outlines the full scope of the security implementation scheduled for
 
 ---
 
-### PHASE 3 — Backup Foundations
+### Group 3 — Backup Foundations
 
 - Critical business files (recipes, financials, credentials) identified
 - Triple backup system planned:
@@ -63,7 +63,7 @@ This update outlines the full scope of the security implementation scheduled for
 
 ---
 
-### PHASE 4 — Security Scripts & Hardening
+### Group 4 — Security Scripts & Hardening
 
 - LAN traffic disabled via `DISABLE_LAN.ps1`
 - Reversal tested with `UNDO_LAN.ps1`
@@ -75,7 +75,7 @@ This update outlines the full scope of the security implementation scheduled for
 
 ---
 
-### PHASE 5 — Client Training
+### Group 5 — Client Training
 
 - Phishing training delivered (concepts, detection, response)
 - Bitwarden tutorial (browser extension, password strategy)
@@ -86,7 +86,7 @@ This update outlines the full scope of the security implementation scheduled for
 
 ---
 
-### PHASE 6 — System Imaging & Final Review
+### Group 6 — System Imaging & Final Review
 
 - System image created using RescueZilla (external drive)
 - Drive labeled and secured offsite
@@ -96,7 +96,7 @@ This update outlines the full scope of the security implementation scheduled for
   `C:\Users\Ethan\Documents\Security_Overview\DayOne_Report.txt`
 
 ---
-
+**For Future Document Use:**
 ### SIGN-OFF (To be completed on site)
 
 - [ ] Client confirms understanding of account usage and recovery  
