@@ -2,7 +2,7 @@
 **Client:** Rina’s Traditions  
 **Date:** April 13, 2025  
 **Technician:** James Castro  
-**Follow-up:** April 15, 2025
+**Follow-up:** June 7, 2025
 
 Performed a complete security deployment of the business-only laptop for Rina’s Traditions **(see [Phase 2: Laptop in Update3_Checklist_Schedule](./Update3_Checklist_Schedule.md)).** This stage focused on secure device segmentation, separating personal usage from business usage, user role enforcement, encryption, credential management, and foundational hardening to support long-term business resilience.
 
