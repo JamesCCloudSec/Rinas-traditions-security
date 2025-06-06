@@ -1,13 +1,13 @@
-# Phase Two Deployment – Business Laptop Hardening  
+# Phase One Deployment – Business Laptop Hardening  
 **Client:** Rina’s Traditions  
 **Date:** April 13, 2025  
 **Technician:** James Castro  
 **Follow-up:** June 7, 2025
 
-Performed a complete security deployment of the business-only laptop for Rina’s Traditions **(see [Phase 2: Laptop in Update3_Checklist_Schedule](./Update3_Checklist_Schedule.md)).** This stage focused on secure device segmentation, separating personal usage from business usage, user role enforcement, encryption, credential management, and foundational hardening to support long-term business resilience.
+Performed a complete security deployment of the business-only laptop for Rina’s Traditions **(see [Group 2: Laptop in Update3_Checklist_Schedule](./Update3_Checklist_Schedule.md)).** This stage focused on secure device segmentation, separating personal usage from business usage, user role enforcement, encryption, credential management, and foundational hardening to support long-term business resilience.
 
 ## Scope & Context
-This document summarizes the live security implementation of Phase Two from the Rina’s Traditions internal security plan, focused on the hardening of a business-exclusive laptop used for communications, vendor interactions, financial management, and authentication. The objective was to fully segment business operations from personal activity, enforce least privilege across user accounts, and deploy layered endpoint protections using free and licensed tools. This effort is part of a broader multi-phase deployment to elevate the business’s cybersecurity maturity with minimal cost and maximum transparency, aligning with NIST and FCC small business security guidance.
+This document summarizes the live security implementation of Phase One from the Rina’s Traditions internal security plan, focused on the hardening of a business-exclusive laptop used for communications, vendor interactions, financial management, and authentication. The objective was to fully segment business operations from personal activity, enforce least privilege across user accounts, and deploy layered endpoint protections using free and licensed tools. This effort is part of a broader multi-phase deployment to elevate the business’s cybersecurity maturity with minimal cost and maximum transparency, aligning with NIST and FCC small business security guidance.
 ## Completed Tasks
 
 ### System Segmentation & User Role Enforcement
@@ -54,7 +54,7 @@ This document summarizes the live security implementation of Phase Two from the 
 - Installed VirtualBox and configured Ubuntu virtual machine environment
 - Taught Ethan how to launch, use, and safely experiment with Ubuntu for learning purposes
 
-## Resume Highlights – Phase Two Implementation (Rina’s Traditions)
+## Resume Highlights – Phase One Implementation (Rina’s Traditions)
 
 - Deployed hardened local user architecture with strict least-privilege access controls and full admin segmentation
 - Built secure identity stack using Bitwarden + Google Authenticator with unique, complex credentials and enforced 2FA across all business services
@@ -72,5 +72,5 @@ This document summarizes the live security implementation of Phase Two from the 
 - Removed legacy firewall interference from Norton 360 and ensured Defender was re-enabled
 - Laptop is now fully segmented, protected, and hardened for real-world business use
 - All elevated actions require admin login; standard user account configured for daily operations
-- Client follow-up scheduled for Tuesday, April 15, 2025, to complete Phases 1, 3, 4, 5, and 6 (Phase 2 completed today).
-- Phase 1 was postponed due to a hardware malfunction. Ethan's backup device failed to move 1GB of critical data, requiring me to handle it on arrival.
+- Client follow-up scheduled for Tuesday, April 15, 2025, to complete Groups 1, 3, 4, 5, and 6 (Group 2 completed today).
+- Group 1 was postponed due to a hardware malfunction. Ethan's backup device failed to move 1GB of critical data, requiring me to handle it on arrival.
